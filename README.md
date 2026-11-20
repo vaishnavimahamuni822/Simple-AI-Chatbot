@@ -43,4 +43,4 @@ This project is a basic chatbot that understands simple user messages and provid
 To develop a basic rule-based chatbot that answers common user questions and demonstrates the fundamentals of Natural Language Processing.
 
 👩‍💻 Author
-Created as Vaishnavi Mahamuni.
+Created by Vaishnavi Mahamuni.
